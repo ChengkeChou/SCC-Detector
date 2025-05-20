@@ -1,4 +1,0 @@
-torch
-torchvision
-opencv-python
-PyQt5
