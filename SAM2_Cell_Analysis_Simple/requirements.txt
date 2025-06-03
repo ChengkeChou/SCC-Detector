@@ -1,0 +1,15 @@
+# SAM2细胞分析系统 - 核心依赖包
+numpy>=1.21.0
+opencv-python>=4.5.0
+Pillow>=8.0.0
+PyQt5>=5.15.0
+torch>=1.9.0
+torchvision>=0.10.0
+matplotlib>=3.3.0
+pyyaml>=6.0
+tqdm>=4.60.0
+
+# 安装说明:
+# 1. GPU版本 (推荐): pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
+# 2. CPU版本: pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+# 3. 其他依赖: pip install -r requirements.txt
